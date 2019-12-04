@@ -1,0 +1,7 @@
+Public class User{
+   Public void main(String args[]){
+     string username;
+     Protected String password;
+   Username=key.NextLine();
+}
+}
